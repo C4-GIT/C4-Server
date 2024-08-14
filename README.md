@@ -40,7 +40,7 @@ Python Anwendung mit GUI, welche die ganze C4-Umgebung mittels Button starten un
 
 # Der C4-Webserver
 ![himars](https://github.com/user-attachments/assets/c3189d09-1f51-45c9-a05b-7c4cc95982ab)
-Der C4-Webserver dient als grafische Schnittstelle zur C4-Server Umgebung. Die Webseiten sind unterteilt in die 
+Der C4-Webserver dient als grafische Schnittstelle zur C4-Server Umgebung. Die Webseiten sind unterteilt in die folgenden Bereiche:
 ## Startseite
 ### webserver.html
 Bestehend aus Logo, Überschrift, Zusammenfassung der Übersicht, Menü und ganz wichtig, einer Übersicht der Statistiken aus der C4-Umgebung.
